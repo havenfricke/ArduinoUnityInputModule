@@ -1,5 +1,5 @@
 # Arduino to Unity Input Module
-## Description
+
 An all-in-one script for Unity that captures input from Arduino 
 and registers it as a device in the Unity Input System. 
 This script is specifically designed to capture 2D values (x, y) 
