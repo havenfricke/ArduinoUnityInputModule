@@ -8,7 +8,7 @@ connected joystick (z). This script also includes code to use for
 Arduino IDE in the comments.
 
 ## Arduino Configuration
-*Elegoo Uno R3 Analog Joystick Input Module
+*Elegoo Uno R3 with Analog Joystick Input connected and powered via USB
 
 - GND  -> GND
 - 5V   -> 5V
