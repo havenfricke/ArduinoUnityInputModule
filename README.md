@@ -7,6 +7,15 @@ and a digital input for the down-click or click-in of an Arduino
 connected joystick (z). This script also includes code to use for 
 Arduino IDE in the comments.
 
+## Arduino Configuration
+*Elegoo Uno R3 Analog Joystick Input Module
+
+GND  -> GND
+5V   -> 5V
+VRx  -> A0
+VRy  -> A1
+SW   -> D2 
+
 ### Arduino IDE code that corresponds to the input capture of the Unity C# module:
 ```
 int xAxisInput = A0;
