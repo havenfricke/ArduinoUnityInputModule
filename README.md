@@ -1,4 +1,4 @@
-# Arduino to Unity 6 Input Module
+## Arduino to Unity 6 Input Module
 
 An all-in-one script for Unity that captures input from Arduino 
 and registers it as a device in the Unity Input System. 
